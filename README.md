@@ -54,7 +54,7 @@ else
 Q <= D;
 endmodule
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:JAYANI K RegisterNumber: 24005008 */
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:V.Harshini RegisterNumber: 24010419*/
 
 **RTL LOGIC FOR FLIPFLOPS**
 
@@ -66,4 +66,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
